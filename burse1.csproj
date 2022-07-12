@@ -1,0 +1,5 @@
+import com.azure.storage.common.StorageSharedKeyCredential;
+import com.azure.storage.common.implementation.connectionstring.StorageAuthenticationSettings;
+import com.azure.storage.common.implementation.connectionstring
+import com.azure.storage.Common
+import com.azure.storage.blob.BlobServiceClient;
